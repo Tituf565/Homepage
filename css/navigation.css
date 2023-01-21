@@ -1,0 +1,24 @@
+.navigation {
+    max-width: 1000px;
+    height: 120px;
+    text-align: center;
+    background-color: rgb(0 1 4 / 80%);
+}
+
+.navigation__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    white-space: nowrap;
+}
+
+.navigation__listItem {
+    display: inline-block;
+    margin: 45px;
+    font-size: 25px;
+}
+
+.navigation__linkColor {
+    color: #dadcdd;
+}

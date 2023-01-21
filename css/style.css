@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Lato', sans-serif;
+    max-width: 1000px;
+    background-image: url(https://i.ibb.co/r32BPct/hd-wallpaper-2695569.jpg);
+    background-size: 1935px;
+    color: aliceblue;
+    margin: auto;
+}
+
+.header {
+    font-family: 'Cinzel', serif;
+    font-size: 75px;
+    color: rgb(193 193 193 / 97%);
+    text-align: center;
+    text-shadow: 10px, 20px, 50px gray;
+}
+
+
+
+.colorChange {
+    background-image: none;
+    background-color: #1a224e;
+}
+
+.button {
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #444444;
+    color: white;
+    
+}

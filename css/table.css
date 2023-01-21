@@ -1,0 +1,22 @@
+.table {
+    border-collapse: collapse;
+    margin-left: 50px;
+
+}
+
+.table__cell {
+    border: 1.5px solid rgb(45 44 145);
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(1 4 16 / 56%);
+}
+
+.table__caption {
+    margin-bottom: 20px;
+    font-size: 15px;
+    text-shadow: 4px 1px 6px #0403ef;
+}
+
+.table__row:hover {
+    background-color: rgba(231, 232, 236, 0.267);
+}
