@@ -2,7 +2,9 @@
 
 ## Demo - https://tituf565.github.io/Homepage/
 
+## Screenshot - ![WebsiteView](https://i.postimg.cc/QxZ6ZpZc/ss-interstellar.jpg)
+
 ## Description 
 
-A page about one of my favorite movies, with more serious projects I will definitely take care of a more serious README. :)
+A page about one of my favorite movies.
 
